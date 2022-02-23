@@ -1,0 +1,5 @@
+f=open('shyam.txt','w')
+content=f.write('this is write')
+f.close()
+print(content)
+f.close()
